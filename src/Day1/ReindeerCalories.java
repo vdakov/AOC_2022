@@ -28,5 +28,7 @@ public class ReindeerCalories {
         System.out.println(cals.get(1));
         System.out.println(cals.get(2));
         System.out.println("Top 3: " + (cals.get(0)+cals.get(1)+cals.get(2)));
+
+      
     }
 }
