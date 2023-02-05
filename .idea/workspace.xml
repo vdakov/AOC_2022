@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="111b2918-dd1c-4f58-b06c-182e7f940be2" name="Changes" comment="Structure Changes">
+      <change beforePath="$PROJECT_DIR$/src/JavaSolutions/Day1/ReindeerCalories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSolutions/Day1/ReindeerCalories.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="test" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IKmeRfaju8Ypl1J5nFNHCyvQAz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vdako\Desktop\AOC_2022\src\JavaSolutions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vdako\Desktop\AOC_2022\src" />
+      <recent name="C:\Users\vdako\Desktop\AdventOfCode\resources" />
+      <recent name="C:\Users\vdako\Desktop\AdventOfCode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReindeerCalories">
+    <configuration name="ReindeerCalories" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaSolutions.Day1.ReindeerCalories" />
+      <module name="AdventOfCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaSolutions.Day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RopePuzzle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day9.RopePuzzle" />
+      <module name="AdventOfCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7.Seven" />
+      <module name="AdventOfCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreehouseSpotter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day8.TreehouseSpotter" />
+      <module name="AdventOfCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AdventOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\vdako\Desktop\CSE2225 Image Processing\Project-Group-18\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/PythonSolutions" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/PythonSolutions/Day1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReindeerCalories" />
+        <item itemvalue="Application.TreehouseSpotter" />
+        <item itemvalue="Application.Seven" />
+        <item itemvalue="Application.RopePuzzle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="111b2918-dd1c-4f58-b06c-182e7f940be2" name="Changes" comment="" />
+      <created>1669938746331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669938746331</updated>
+      <workItem from="1669938753506" duration="1820000" />
+      <workItem from="1669967949478" duration="2585000" />
+      <workItem from="1669989402605" duration="6350000" />
+      <workItem from="1670076417798" duration="319000" />
+      <workItem from="1670076918146" duration="787000" />
+      <workItem from="1670136795621" duration="2441000" />
+      <workItem from="1670227420780" duration="6130000" />
+      <workItem from="1670248304398" duration="628000" />
+      <workItem from="1670322450630" duration="2815000" />
+      <workItem from="1670408396513" duration="1723000" />
+      <workItem from="1670440683722" duration="24748000" />
+      <workItem from="1670498986713" duration="2513000" />
+      <workItem from="1670636050155" duration="11419000" />
+      <workItem from="1675598270631" duration="2341000" />
+      <workItem from="1675603700754" duration="2307000" />
+      <workItem from="1675610986434" duration="452000" />
+      <workItem from="1675611475416" duration="17000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Push">
+      <created>1669990339132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669990339132</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Push">
+      <created>1669990627318</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669990627318</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Day 3">
+      <created>1670061661246</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670061661246</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Day 3">
+      <created>1670061708189</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670061708189</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Day 3">
+      <created>1670076720452</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670076720452</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Day 3">
+      <created>1670076935743</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670076935743</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Test">
+      <created>1670077042612</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670077042612</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Day 4">
+      <created>1670139220012</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670139220012</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Day 5">
+      <created>1670233736931</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670233736931</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Day 6">
+      <created>1670324872539</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670324872539</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Day 7">
+      <created>1670485644933</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670485644933</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Day 8">
+      <created>1670511621208</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670511621208</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Structure Changes">
+      <created>1675606920678</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675606920678</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/AOC_2022" />
+      <path value="$PROJECT_DIR$/AdventOfCode2022" />
+    </ignored-roots>
+    <MESSAGE value="Initial Push" />
+    <MESSAGE value="Day 3" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="Day 4" />
+    <MESSAGE value="Day 5" />
+    <MESSAGE value="Day 6" />
+    <MESSAGE value="Day 7" />
+    <MESSAGE value="Day 8" />
+    <MESSAGE value="Structure Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Structure Changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="parent" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
