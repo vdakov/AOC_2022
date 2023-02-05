@@ -44,7 +44,7 @@ def top_three_elves(input):
 
 if __name__ == '__main__':
     args = get_args()
-    print(args.file_path)
+
     file = open(args.file_path, mode='r')
 
     input = file.read()
