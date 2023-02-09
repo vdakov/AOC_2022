@@ -1,11 +1,8 @@
-import numpy as np
 import argparse
-
 
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--file_path", type = str, default = "resources\stacks.txt")
-
     return parser.parse_args()
 
 def process_stacks(input):
@@ -54,8 +51,6 @@ def part_two(stacks, input, num_lines):
     top = "".join(stack[-1] for stack in stacks)
     
     return top
-
-
 
 if __name__ == "__main__":
     args = get_args()
